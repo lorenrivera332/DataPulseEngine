@@ -1,0 +1,23 @@
+
+---
+
+### **3. 22_LogPulseTracker**  
+**Description:**  
+Parses logs for repeating patterns, keyword triggers, and spike detection.
+
+#### **README.md**
+```markdown
+# LogPulseTracker - Log Frequency & Pattern Analyzer
+
+LogPulseTracker helps you identify patterns or warning signals from noisy log files.
+
+## Features
+- Highlights repeating lines  
+- Groups by timestamp  
+- Custom keyword alerts  
+
+## Usage
+```bash
+git clone https://github.com/your-username/22_LogPulseTracker.git
+cd 22_LogPulseTracker
+python analyze.py
